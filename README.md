@@ -12,6 +12,11 @@
 
 <h3 align="left">Latest Medium Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->
+- [Building a Decentralized Exchange &lpar;DEX&rpar; with Rust and Anchor for Solana: A Comprehensive Guide](https://medium.com/@mehran.khanjan/building-a-decentralized-exchange-dex-with-rust-and-anchor-for-solana-a-comprehensive-guide-2d9f5bbb67b3?source=rss-cd7c85927356------2)
+- [Building an NFT Marketplace with Rust and Anchor on Solana: A Comprehensive Guide](https://medium.com/@mehran.khanjan/building-an-nft-marketplace-with-rust-and-anchor-on-solana-a-comprehensive-guide-bc00736952ee?source=rss-cd7c85927356------2)
+- [Developing an E-Commerce System with Rust: A Comprehensive Guide](https://medium.com/@mehran.khanjan/developing-an-e-commerce-system-with-rust-a-comprehensive-guide-2488b3c76823?source=rss-cd7c85927356------2)
+- [Unit Testing a Solidity Smart Contract: LaunchpadFactory Contract](https://medium.com/@mehran.khanjan/unit-testing-a-solidity-smart-contract-launchpadfactory-contract-96eb6da600de?source=rss-cd7c85927356------2)
+- [Building a Launchpad Ecosystem: Understanding the LaunchpadFactory Smart Contract](https://medium.com/@mehran.khanjan/building-a-launchpad-ecosystem-understanding-the-launchpadfactory-smart-contract-cdf265c373ed?source=rss-cd7c85927356------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
